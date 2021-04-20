@@ -9,3 +9,10 @@ customer = {
   email: "email@mail.com",
   phone_number: 231654984
 }
+
+animal = {
+  type: "bear",
+  location: "the woods",
+  big: true,
+  friendly: "probably not"
+}
